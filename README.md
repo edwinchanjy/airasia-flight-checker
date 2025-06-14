@@ -1,7 +1,7 @@
 # Flutter AirAsia Flight Checker
 
 A simple window program to check for the cheapest AirAsia flights within the selected date range in a click.
-Because who wants the sit there and screen through every single page?
+Because who wants to sit there and screen through every single page?
 
 ####  TODO List in priority order
 1. Display user readable data for the response returned from API
