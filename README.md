@@ -1,16 +1,13 @@
-# flutter_flight_checker
+# Flutter AirAsia Flight Checker
 
-A new Flutter project.git push -u origin main
+A simple window program to check for the cheapest AirAsia flights within the selected date range in a click.
+Because who wants the sit there and screen through every single page?
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+####  TODO List in priority order
+1. Display user readable data for the response returned from API
+2. Fix Location Autocomplete Display (To display proper info)
+3. Add date picker for date input field
+4. Add cache/cookie for user's selections
+5. Related to point 5, allow user to switch between their previous selections
+6. Add price range filter
+7. Add currency dropdown selection (Probably will just fix it to MYR, I make this for my own usage anyway)
